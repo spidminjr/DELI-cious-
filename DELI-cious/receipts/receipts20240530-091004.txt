@@ -1,0 +1,18 @@
+Order ID: 1
+Customer: Leo (5234568654)
+
+12" Sandwich on wheat - $11.25
+  + Steak (Premium)
+  + Ham (Premium)
+  + Cheddar Cheese (Premium)
+  + Lettuce
+  + Peppers
+  + Tomatoes
+  + Jalapenos
+  + Pickles
+  + Mayo
+  + Vinaigrette
+Medium Drink - $2.5
+Chips - $1.5
+
+Total Price: $15.25

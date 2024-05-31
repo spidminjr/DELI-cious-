@@ -1,0 +1,7 @@
+Order ID: 1
+Customer: John (510945634)
+
+Large Drink - $3.0
+Chips - $1.5
+
+Total Price: $4.5

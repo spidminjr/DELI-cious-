@@ -1,0 +1,11 @@
+Order ID: 1
+Customer: Leo (5109344554)
+
+8" Sandwich on rye - $8.0
+  + Ham (Premium)
+  + Lettuce
+  + Pickles
+  + Mayo
+  + Mustard
+
+Total Price: $8.0

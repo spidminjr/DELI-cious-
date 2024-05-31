@@ -1,0 +1,33 @@
+Order ID: 1
+Customer: John (9114567845)
+
+4" Sandwich on wrap - $9.0
+  + Salami (Premium)
+  + Roast Beef (Premium)
+  + Cheddar Cheese (Premium)
+  + American Cheese (Premium)
+  + Lettuce
+  + Peppers
+  + Onions
+  + Tomatoes
+  + Pickles
+  + Mayo
+  + Ranch
+  + Sauce
+8" Sandwich on wrap - $10.0
+  + Steak (Premium)
+  + Chicken (Premium)
+  + Bacon (Premium)
+  + Lettuce
+  + Peppers
+  + Tomatoes
+  + Jalapenos
+  + Mushrooms
+  + Mayo
+  + Mustard
+  + Vinaigrette
+Large Drink - $3.0
+SmallDrink - $2.0
+Chips - $1.5
+
+Total Price: $25.5

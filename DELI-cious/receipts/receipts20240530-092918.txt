@@ -1,0 +1,21 @@
+Order ID: 1
+Customer: Josh (5102568390)
+
+12" Sandwich on white - $12.25
+  + Steak (Premium)
+  + Ham (Premium)
+  + Salami (Premium)
+  + Swiss Cheese (Premium)
+  + Lettuce
+  + Peppers
+  + Onions
+  + Tomatoes
+  + Jalapenos
+  + Pickles
+  + Mayo
+  + Ranch
+  + Au jus
+Medium Drink - $2.5
+Chips - $1.5
+
+Total Price: $16.25
