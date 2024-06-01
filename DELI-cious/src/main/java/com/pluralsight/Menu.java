@@ -63,7 +63,7 @@ public class Menu
         ingredients.add(new Ingredient("Au jus", 0.00, false));
         ingredients.add(new Ingredient("Sauce", 0.00, false));
 
-        drinks.add(new Drink("SmallDrink", 2.00));
+        drinks.add(new Drink("Small Drink", 2.00));
         drinks.add(new Drink("Medium Drink", 2.50));
         drinks.add(new Drink("Large Drink", 3.00));
 

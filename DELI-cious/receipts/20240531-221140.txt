@@ -1,0 +1,24 @@
+Order ID: 1
+Customer: Leo (5102345678)
+
+Large Drink - $3.0
+Chips - $1.5
+8" Sandwich on wheat - $9.75
+  + Steak (Premium)
+  + Ham (Premium)
+  + American Cheese (Premium)
+  + Lettuce
+  + Peppers
+  + Tomatoes
+  + Pickles
+  + Mushrooms
+  + Ranch
+8" Sandwich on white - $8.75
+  + Ham (Premium)
+  + Lettuce
+  + Peppers
+  + Provolone Cheese (Premium)
+  + Mayo
+  + Mustard
+
+Total Price: $23.0

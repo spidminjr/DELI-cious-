@@ -1,0 +1,24 @@
+Order ID: 1
+Customer: Leo (51099346785)
+
+12" Sandwich on wrap - $10.25
+  + Steak (Premium)
+  + American Cheese (Premium)
+  + Lettuce
+  + Onions
+  + Tomatoes
+  + Mushrooms
+  + Mayo
+  + Ranch
+4" Sandwich on wheat - $7.25
+  + Salami (Premium)
+  + Swiss Cheese (Premium)
+  + Lettuce
+  + Onions
+  + Tomatoes
+  + Thousand Islands
+Medium Drink - $2.5
+Chips - $1.5
+Chips - $1.5
+
+Total Price: $23.0
